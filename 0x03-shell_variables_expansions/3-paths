@@ -1,2 +1,2 @@
 #!/bin/bash
-echo SPATH | tr ":" "\" | wc -1
+echo SPATH | tr ":" "\" | wc -l
