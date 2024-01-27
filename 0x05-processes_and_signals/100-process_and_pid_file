@@ -7,10 +7,10 @@
 #   Deletes the file /var/run/myscript.pid and terminates upon
 #+  receiving a SIGQUIT or SIGTERM.
 
-terminator() {
+
   rm /var/run/myscript.pid
   exit
-}
+
 
 echo "$$" > /var/run/myscript.pid
 
