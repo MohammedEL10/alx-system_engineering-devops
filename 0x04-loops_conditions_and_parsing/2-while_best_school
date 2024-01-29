@@ -3,7 +3,7 @@
 #You must use the while loop (for and until are forbidden)
 
 i=0
-while true
+while [ $i -gt 10 ]
 do
 	echo "Best School"
 done
