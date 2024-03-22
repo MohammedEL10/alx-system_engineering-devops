@@ -1,5 +1,7 @@
-# Executes a command
-exec { 'pkill killmenu':
-	path => '/usr/bin:/sbin:/bin'
+# kill process killme now
+
+exec { 'kill':
+	command => 'killmenow',
+	provider => 'shell',
 }
 
