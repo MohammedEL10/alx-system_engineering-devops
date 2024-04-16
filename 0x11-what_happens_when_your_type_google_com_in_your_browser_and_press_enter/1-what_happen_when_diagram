@@ -1,0 +1,45 @@
+ A blog post explaining what happens when you type https://www.google.com in your browser and press Enter.
+
+WHAT IS DNS?
+Domain name system which is a mechanism that gives you the ability to connect the two websites by association a human relief system with a unique ID after server and wish our website is kept when you type 3w that's Google into your browser it assists you in establishing a connection between that websites domain name and its corresponding IP address new type google.com into your browser you are not connecting to a service specific to google.com then as a resolution indicates that Google that's cool is located at this IP address after that your computer will connect to that address via specific service port and Lead the Google will feature loudness. 
+WHAT IS TCP/IP?
+TCP/IP stands for transmission control protocol/ Internet Protocol it's an Internet Protocol that's allowed computers to communicate with one and transfer data across long distances the protocol breaks that are down into little pockets and transmission to Institution once it arrives which puts them back together into one clear message technically TCP and IP are two different protocols by they both have important roles TCP organizes and sorts all of that while happy is responsible for sending and receiving it I think can work with after protocols but just simply most always have I put to work.
+What is HTTPS?
+Hypertext transfer protocol secure (HTTPS) is the secure version of HTTP, which is the primary protocol used to send data between a web browser and a website. HTTPS is encrypted in order to increase security of data transfer. This is particularly important when users transmit sensitive data, such as by logging into a bank account, email service, or health insurance provider.Any website, especially those that require login credentials, should use HTTPS. In modern web browsers such as Chrome, websites that do not use HTTPS are marked differently than those that are. Look for a padlock in the URL bar to signify the webpage is secure. 
+ WHAT IS A FIREWALL ?
+A firewall is a network security device that create a barrier between a trusted Network and untrustworthy we have some type of Firewall first we have Hardware this type of fire is a separate self-contained price of hard work designed to filter Network traffic harder firewall are popular among larger organization with many computers in their Network, second we have software firewall are installed on your house device to present malicious traffic to provide protection receiver computers a version of the software must be installed on each one.
+WHAT IS LOAD BALANCING?
+Load balancing is the act of Distributing common Network traffic across back-in servers to balance the amount of traffic across a pool of servers which allows applications to perform better by Cindy requests to multiple servers decreasing the burden of managing and maintaining Network sessions . 
+WHAT IS A WEB SERVER?
+ A web server is a software and Hardware that uses HTTP (hypertext  Transfer protocol) and other protocols to respond to client requests made over the world wide web. 
+ The main job of a web server is to display website content through storing, processing and delivering web pages to users.
+How do web servers work?
+ service work accessible Through the domain names of Riverside and ensures the delivery of sites content to their request the music the software side is also comprised of several components with at least an HTTP server is able to understand as Hardware I will service is a computer that stores web server store software and other files related to our website such as a statement documents image and JavaScript files. 
+APPLICATION SERVER
+An application server is a server that hosts applications or software that delivers a business application through a communication protocol for a typical web application the application server sits behind the web servers. An application server framework is a service layer model.
+WHAT IS A DATABASE ?
+Database is an organized collection of information that can be associated sorted and updated this letter is often stored electronically in a computer system called a database management system that is typically organized that I errors and columns for easy profession and retriever oftentimes you to use a programming language such as structured TV language School to answer that with your that base database are similar to spreadsheets but there are several key differences in general that is much larger than spreadsheets And so can store more data and they allow for multiple user to access data at the same time 
+
+
+1. Everything's better with a pretty diagram
+
+Add a schema to your blog post illustrating the flow of the request created when you type https://www.google.com in your browser and press Enter.
+
+The diagram should show:
+
+DNS resolution
+that the request hitting server IP on the appropriate port
+that the traffic is encrypted
+that the traffic goes through a firewall
+that the request is distributed via a load balancer
+that the web server answers the request by serving a web page
+that the application server generates the web page
+that the application server request data from the database
+Gliffy is free and what I personally use, but feel free to use what fits you best.
+
+Some unrelated examples:
+
+
+
+
+
