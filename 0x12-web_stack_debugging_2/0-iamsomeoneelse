@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-whoami
-#root
-top -u root
+#Run software as another user
+sudo -u "$1" whoami

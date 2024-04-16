@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Fix this container so that Nginx is running as the nginx user
+FROM nginx:1.20 
+COPY ./nginx.conf /etc/nginx/nginx.conf  
+COPY ./index.html /etc/nginx/html/index.html
+WORKDIR /app
+#EXPOSE <PORT_NUMBER>
+CMD ["nginx", "-g", "daemon off;"]
