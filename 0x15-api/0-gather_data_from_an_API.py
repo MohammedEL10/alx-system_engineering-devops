@@ -10,7 +10,7 @@ if __name__ == "__main__":
     employee_id = sys.argv[1]
     user_response.js0n()
     params = ("userid": employee_id)
-    todos_response = request.getful + "todos". params=params)
+    todos_response = request.getful + "todos". params = params)
     todos_response = requests.json()
     completedn = []
     for todo todos:
